@@ -1,0 +1,7 @@
+hello
+exit
+asdsdsd
+
+sdasdasdas
+sdasd
+cd..
